@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/http//:DcodeTheCulture.github.io/Task-tracker/static/css/main.c5e0ab8a.css",
-    "main.js": "/http//:DcodeTheCulture.github.io/Task-tracker/static/js/main.b86a7f53.js",
-    "static/js/787.9f4d1261.chunk.js": "/http//:DcodeTheCulture.github.io/Task-tracker/static/js/787.9f4d1261.chunk.js",
-    "index.html": "/http//:DcodeTheCulture.github.io/Task-tracker/index.html",
-    "main.c5e0ab8a.css.map": "/http//:DcodeTheCulture.github.io/Task-tracker/static/css/main.c5e0ab8a.css.map",
-    "main.b86a7f53.js.map": "/http//:DcodeTheCulture.github.io/Task-tracker/static/js/main.b86a7f53.js.map",
-    "787.9f4d1261.chunk.js.map": "/http//:DcodeTheCulture.github.io/Task-tracker/static/js/787.9f4d1261.chunk.js.map"
+    "main.css": "/Task-tracker/static/css/main.c5e0ab8a.css",
+    "main.js": "/Task-tracker/static/js/main.07da7c1a.js",
+    "static/js/787.9f4d1261.chunk.js": "/Task-tracker/static/js/787.9f4d1261.chunk.js",
+    "index.html": "/Task-tracker/index.html",
+    "main.c5e0ab8a.css.map": "/Task-tracker/static/css/main.c5e0ab8a.css.map",
+    "main.07da7c1a.js.map": "/Task-tracker/static/js/main.07da7c1a.js.map",
+    "787.9f4d1261.chunk.js.map": "/Task-tracker/static/js/787.9f4d1261.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5e0ab8a.css",
-    "static/js/main.b86a7f53.js"
+    "static/js/main.07da7c1a.js"
   ]
 }
